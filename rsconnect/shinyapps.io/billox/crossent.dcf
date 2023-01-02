@@ -1,0 +1,13 @@
+name: crossent
+title: crossent
+username:
+account: billox
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7965026
+bundleId: 6690020
+url: https://billox.shinyapps.io/crossent/
+when: 1672672249.47705
+lastSyncTime: 1672672249.47706
+asMultiple: FALSE
+asStatic: FALSE
